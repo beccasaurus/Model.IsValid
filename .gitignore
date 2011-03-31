@@ -1,0 +1,11 @@
+*.sw?
+*~
+*.suo
+obj
+bin
+Debug
+Release
+TestResult.xml
+*.html
+spec/tmp
+*ReSharper*
